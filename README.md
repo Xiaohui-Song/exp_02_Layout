@@ -24,5 +24,6 @@
  </br>
  (1)gravity,Layout_marginLeft，Layout_marginRight控制位置
  最后效果如下图所示：</br>
- ![exp-03](https://github.com/Xiaohui-Song/exp_02_Layout/blob/main/pictures/exp3.PNG)
+ ![exp-03](https://github.com/Xiaohui-Song/exp_02_Layout/blob/main/pictures/exp3.PNG)</br>
+ 
  
