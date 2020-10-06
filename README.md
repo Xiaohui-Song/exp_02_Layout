@@ -19,7 +19,7 @@
 (3)先给四周的按钮添加约束，固定好后，再固定其他的按钮，其他按钮以固定好的按钮为基准添加约束。</br>
 
  最后效果如下图所示：</br>
- ![exp_02](https://github.com/Xiaohui-Song/exp_02_Layout/blob/main/pictures/exp2.PNG)</br>
+![exp_02](https://github.com/Xiaohui-Song/exp_02_Layout/blob/main/pictures/exp2.PNG)</br>
 
 ## 3.表格布局
  </br>
