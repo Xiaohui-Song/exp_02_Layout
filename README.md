@@ -1,10 +1,11 @@
 # exp_02_Layout
 
-1.线性布局
---------<br>
+## 1.线性布局
+</br>
+--------
 
 (1)虚拟设备横屏，在manifests下AndroidManifest.xml的activity标签中加入如下代码<br>
-![](https://github.com/Xiaohui-Song/exp_02_Layout/blob/main/pictures/4.PNG)
+![](https://github.com/Xiaohui-Song/exp_02_Layout/blob/main/pictures/4.PNG)<br>
 (2)要实现目标布局，可采用垂直布局嵌套四个水平布局或者水平布局嵌套四个垂直布局，我采用垂直布局嵌套四个水平布局,一个水平布局包含四个按钮组件<br>
 (3)实现按钮均等分，可以使用layout_weight，将一行分成“4”份一个按钮占“1”份。<br>
 (4)实现按钮边框及背景色，可在res的drawble下新建xml文件 <solid android:color=/>指定背景色<stroke android:width= android:color=/>分别指定边框大小和边框颜色，
