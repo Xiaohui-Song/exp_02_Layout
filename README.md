@@ -27,7 +27,7 @@
  最后效果如下图所示：</br>
  ![exp-03](https://github.com/Xiaohui-Song/exp_02_Layout/blob/main/pictures/exp3.PNG)</br>
  
- ## 4.问题及解决
+## 4.问题及解决
  </br>
- (1)实验中遇到预览显示和虚拟设备显示不相同问题，可在预览中点击view option勾选Show Layout Decorations显示根布局解决该问题
+ (1)实验中遇到预览显示和虚拟设备显示不相同问题，可在预览中点击view option勾选Show Layout Decorations显示根布局解决该问题</br>
  (2)不小心误删layout下xml文件可右击layout点击Local history->show history进行恢复
