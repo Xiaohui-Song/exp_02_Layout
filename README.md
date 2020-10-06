@@ -23,7 +23,8 @@
 
 ## 3.表格布局
  </br>
- (1)gravity,Layout_marginLeft，Layout_marginRight控制位置
+ (1)gravity,Layout_marginLeft，Layout_marginRight控制位置</br>
+ (2)用view可以实现分割线background设置颜色 layout_weight设置分割线宽度</br>
  最后效果如下图所示：</br>
  ![exp-03](https://github.com/Xiaohui-Song/exp_02_Layout/blob/main/pictures/exp3.PNG)</br>
  
