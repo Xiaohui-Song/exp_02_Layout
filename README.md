@@ -10,10 +10,10 @@
 在layout中直接用android：background=“@drawable/button”即可达到目标效果<br>
 (5)实现边框之间距离可以用layout_margin控制按钮与按钮，按钮与父组件间距离<br>
 最后效果如下图所示：<br>
-![exp_01](https://github.com/Xiaohui-Song/exp_02_Layout/blob/main/pictures/exp1.PNG)<br>
+![exp_01](https://github.com/Xiaohui-Song/exp_02_Layout/blob/main/pictures/exp1.PNG)</br>
 
 ##2.约束布局
-<br>
+</br>
 (1)约束布局一定要确保水平和垂直方向至少有一个约束。</br>
 (2)要达到目标效果，可以新建约束布局的xml后，在design中直接拖动按钮到预览中，在右侧Attributes中添加必要属性后加入约束条件。</br>
 (3)先给四周的按钮添加约束，固定好后，再固定其他的按钮，其他按钮以固定好的按钮为基准添加约束。</br>
@@ -21,7 +21,7 @@
  ![exp_02](https://github.com/Xiaohui-Song/exp_02_Layout/blob/main/pictures/exp2.PNG)</br>
 
 ## 3.表格布局
- <br>
+ </br>
  (1)gravity,Layout_marginLeft，Layout_marginRight控制位置
  最后效果如下图所示：</br>
  ![exp-03](https://github.com/Xiaohui-Song/exp_02_Layout/blob/main/pictures/exp3.PNG)
