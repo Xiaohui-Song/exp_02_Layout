@@ -12,7 +12,7 @@
 最后效果如下图所示：<br>
 ![exp_01](https://github.com/Xiaohui-Song/exp_02_Layout/blob/main/pictures/exp1.PNG)</br>
 
-##2.约束布局
+## 2.约束布局
 </br>
 (1)约束布局一定要确保水平和垂直方向至少有一个约束。</br>
 (2)要达到目标效果，可以新建约束布局的xml后，在design中直接拖动按钮到预览中，在右侧Attributes中添加必要属性后加入约束条件。</br>
